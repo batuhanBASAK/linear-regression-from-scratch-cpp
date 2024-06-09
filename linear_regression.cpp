@@ -59,7 +59,7 @@ namespace lrc {
 
         if (X.size() != dimension)
         {
-            std::cerr << "Invalide dimension!!!" <<std::endl;
+            std::cerr << "Invalid dimension!!!" <<std::endl;
             exit(EXIT_FAILURE);
         }
 
